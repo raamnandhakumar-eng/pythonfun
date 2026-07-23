@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+
+# Reproducible generated artifacts
+data/sample_workers.csv
+outputs/*
+!outputs/.gitkeep
