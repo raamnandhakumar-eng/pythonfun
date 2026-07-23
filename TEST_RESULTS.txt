@@ -1,0 +1,10 @@
+Automated test result
+=====================
+
+4 passed
+
+Tests cover:
+- Direction of the simulated AI-exposure gap
+- Presence of the Statsmodels interaction coefficient
+- Valid SciPy test and bootstrap outputs
+- Feasibility and full-budget use in constrained optimization
